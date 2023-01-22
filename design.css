@@ -1,0 +1,58 @@
+
+h1 {
+
+  font-family: verdana;
+  font-size: 14px
+}
+
+h2 {
+
+    font-family: verdana;
+    font-size: 10px
+  }
+
+
+p {
+
+  font-family: verdana;
+  font-size: 8.5px;
+}
+
+h3 {
+
+    font-family: verdana;
+    font-size: 8.5px
+  }
+
+li {
+    font-family: verdana;
+    font-size: 8.5px
+}
+
+div.a {
+    text-align: center;
+}
+
+div.line {
+    border-top: 2px solid black
+}
+
+div.main {
+
+    margin-right: 550px;
+    margin-left: 550px;
+  
+}
+
+p.thick {
+    font-weight: bold;
+    font-size: 8.5px;
+  }
+
+p.alignleft {
+	float: left;
+}
+p.alignright {
+	float: right;
+    font-weight: bold;
+}
